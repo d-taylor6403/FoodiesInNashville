@@ -1,0 +1,4 @@
+/*Tailwind Base Layers*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
